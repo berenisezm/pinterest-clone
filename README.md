@@ -21,5 +21,4 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 ### Vista previa del proyecto
 ![Demo](images/pinterest_screen.png)
 
-### Contacto
-Si te gustaría invitarme a colaboar en un proyecto, contáctame a berenisezm@gmail.com
+
